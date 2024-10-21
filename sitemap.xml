@@ -4,7 +4,7 @@
   <url>
     <loc>https://0or1zo.github.io/2024/10/20/Github+Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog%E7%BD%91%E7%AB%99/</loc>
     
-    <lastmod>2024-10-20</lastmod>
+    <lastmod>2024-10-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,29 +67,29 @@
 
   <url>
     <loc>https://0or1zo.github.io/</loc>
-    <lastmod>2024-10-20</lastmod>
+    <lastmod>2024-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>https://0or1zo.github.io/tags/github/</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://0or1zo.github.io/tags/hexo/</loc>
-    <lastmod>2024-10-20</lastmod>
+    <lastmod>2024-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://0or1zo.github.io/tags/butterfly/</loc>
-    <lastmod>2024-10-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://0or1zo.github.io/tags/github/</loc>
-    <lastmod>2024-10-20</lastmod>
+    <lastmod>2024-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -98,7 +98,7 @@
   
   <url>
     <loc>https://0or1zo.github.io/categories/hexo/</loc>
-    <lastmod>2024-10-20</lastmod>
+    <lastmod>2024-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

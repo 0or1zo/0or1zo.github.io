@@ -1381,7 +1381,7 @@ canvas:not(#ribbon-canvas),
   --scrollbar-color: #49b1f5;
   --default-bg-color: #49b1f5;
   --zoom-bg: #fff;
-/*--mark-bg: alpha($dark-black, .3)*/
+  --mark-bg: rgba(0,0,0,0.3);
 }
 body {
   position: relative;
@@ -6014,7 +6014,7 @@ blockquote.pullquote.right {
   --scrollbar-color: #525252;
   --timeline-bg: #1f1f1f;
   --zoom-bg: #121212;
-/*--mark-bg: alpha($dark-black, .6)*/
+  --mark-bg: rgba(0,0,0,0.6);
 }
 [data-theme='dark'] #web_bg:before {
   position: absolute;

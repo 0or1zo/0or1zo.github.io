@@ -6,7 +6,7 @@ https://0or1zo.github.io/exploit/index.html
 https://0or1zo.github.io/link/index.html
 https://0or1zo.github.io/categories/index.html
 https://0or1zo.github.io/
+https://0or1zo.github.io/tags/github/
 https://0or1zo.github.io/tags/hexo/
 https://0or1zo.github.io/tags/butterfly/
-https://0or1zo.github.io/tags/github/
 https://0or1zo.github.io/categories/hexo/
