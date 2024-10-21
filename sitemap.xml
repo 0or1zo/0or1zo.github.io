@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://0or1zo.github.io/2024/10/21/Jetbrains%E5%85%A8%E5%AE%B6%E6%A1%B6%E6%BF%80%E6%B4%BB/</loc>
+    
+    <lastmod>2024-10-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://0or1zo.github.io/2024/10/20/Github+Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog%E7%BD%91%E7%AB%99/</loc>
     
     <lastmod>2024-10-21</lastmod>
@@ -94,10 +103,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://0or1zo.github.io/tags/Jetbrains/</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://0or1zo.github.io/categories/hexo/</loc>
+    <loc>https://0or1zo.github.io/categories/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://0or1zo.github.io/categories/%E8%BD%AF%E4%BB%B6%E6%BF%80%E6%B4%BB%E7%A0%B4%E8%A7%A3/</loc>
     <lastmod>2024-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

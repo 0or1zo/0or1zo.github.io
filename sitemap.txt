@@ -1,3 +1,4 @@
+https://0or1zo.github.io/2024/10/21/Jetbrains%E5%85%A8%E5%AE%B6%E6%A1%B6%E6%BF%80%E6%B4%BB/
 https://0or1zo.github.io/2024/10/20/Github+Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog%E7%BD%91%E7%AB%99/
 https://0or1zo.github.io/about/index.html
 https://0or1zo.github.io/tags/index.html
@@ -9,4 +10,6 @@ https://0or1zo.github.io/
 https://0or1zo.github.io/tags/github/
 https://0or1zo.github.io/tags/hexo/
 https://0or1zo.github.io/tags/butterfly/
-https://0or1zo.github.io/categories/hexo/
+https://0or1zo.github.io/tags/Jetbrains/
+https://0or1zo.github.io/categories/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/
+https://0or1zo.github.io/categories/%E8%BD%AF%E4%BB%B6%E6%BF%80%E6%B4%BB%E7%A0%B4%E8%A7%A3/
