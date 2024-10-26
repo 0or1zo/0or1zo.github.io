@@ -13,7 +13,7 @@ https://0or1zo.github.io/tags/hexo/
 https://0or1zo.github.io/tags/butterfly/
 https://0or1zo.github.io/tags/Jetbrains/
 https://0or1zo.github.io/tags/chunked/
-https://0or1zo.github.io/tags/WAF/
+https://0or1zo.github.io/tags/%E7%BB%95WAF/
 https://0or1zo.github.io/categories/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/
 https://0or1zo.github.io/categories/%E8%BD%AF%E4%BB%B6%E6%BF%80%E6%B4%BB%E7%A0%B4%E8%A7%A3/
 https://0or1zo.github.io/categories/%E5%A5%87%E6%B7%AB%E6%8A%80%E5%B7%A7/
