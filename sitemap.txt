@@ -1,3 +1,4 @@
+https://0or1zo.github.io/2024/12/15/CyberPanel%E6%BC%8F%E6%B4%9E/
 https://0or1zo.github.io/2024/12/10/ProjectSend%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81%E7%BB%95%E8%BF%87%E6%BC%8F%E6%B4%9E-CVE-2024-11680/
 https://0or1zo.github.io/2024/11/22/Palo-Alto-PAN-OS-CVE-2024-0012-and-CVE-2024-9474/
 https://0or1zo.github.io/2024/11/09/ChromeCookies%E4%B9%8Bv20%E8%A7%A3%E5%AF%86/
@@ -24,6 +25,9 @@ https://0or1zo.github.io/tags/CVE-2024-0012/
 https://0or1zo.github.io/tags/CVE-2024-9474/
 https://0or1zo.github.io/tags/ProjectSend/
 https://0or1zo.github.io/tags/CVE-2024-11680/
+https://0or1zo.github.io/tags/CyberPanel/
+https://0or1zo.github.io/tags/CVE-2024-51567/
+https://0or1zo.github.io/tags/CVE-2024-51568/
 https://0or1zo.github.io/categories/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/
 https://0or1zo.github.io/categories/%E8%BD%AF%E4%BB%B6%E6%BF%80%E6%B4%BB%E7%A0%B4%E8%A7%A3/
 https://0or1zo.github.io/categories/%E5%A5%87%E6%B7%AB%E6%8A%80%E5%B7%A7/
